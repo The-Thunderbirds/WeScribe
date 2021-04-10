@@ -8,7 +8,9 @@
 ## Introduction:
   Platform for real-time collaborative notes making using a whiteboard or text editor, while attending live lectures or watching youtube videos.
   
-  [Demo](https://the-thunderbirds.github.io/WeScribe-Frontend/)
+  [Demo](https://the-thunderbirds.github.io/WeScribe_Frontend/)
+  
+  [Video](https://www.youtube.com/watch?v=zJcAzTtDRgs)
 
 ## Table of Contents:
   1) Backend using Django
