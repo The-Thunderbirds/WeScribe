@@ -17,6 +17,13 @@
 ## Presentation link:
   Here is our [presentation](https://iiitborg-my.sharepoint.com/:p:/g/personal/divyam_agrawal_iiitb_org/Eck72DJQ6NFHrs9Z308TweQBiQZ23e08cm3-1SjuMpv0Yg?e=mJFYDU) of the project.
 
+## Discord links:
+  
+- Invite to [WeScribe-IIITB]( https://discord.gg/ZMuwbKmM) server.
+- WeScribe server [template](https://discord.new/ekSk9a3SsHSP) for your own institution.
+- Invite [WeScribe-Bot](https://discord.com/api/oauth2/authorize?client_id=810128493974913045&permissions=8&scope=bot) to the server.
+
+
 ## Table of Contents:
   1) Backend using Django
   2) Frontend using React
