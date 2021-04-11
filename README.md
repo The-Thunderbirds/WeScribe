@@ -2,9 +2,6 @@
 <p align="center">
 </p>
 
-<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
-
-
 ## Introduction:
   Platform for real-time collaborative notes making using a whiteboard or text editor, while attending live lectures or watching youtube videos.
   
@@ -45,7 +42,3 @@ Team Name: Thunderbirds
 * [Divyam Agrawal](https://github.com/divyamagwl)
 * [G Sri Harsha](https://github.com/GSri30)
 * [Gagan Agarwal](https://github.com/GaganAgarwal77)
-
-
-### Made at:
-<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
